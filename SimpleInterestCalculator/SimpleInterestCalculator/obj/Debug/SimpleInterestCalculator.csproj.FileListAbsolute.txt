@@ -1,0 +1,10 @@
+C:\Users\mdraf\source\repos\SimpleInterestCalculator\SimpleInterestCalculator\bin\Debug\SimpleInterestCalculator.exe.config
+C:\Users\mdraf\source\repos\SimpleInterestCalculator\SimpleInterestCalculator\bin\Debug\SimpleInterestCalculator.exe
+C:\Users\mdraf\source\repos\SimpleInterestCalculator\SimpleInterestCalculator\bin\Debug\SimpleInterestCalculator.pdb
+C:\Users\mdraf\source\repos\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.csprojAssemblyReference.cache
+C:\Users\mdraf\source\repos\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.interestCalculetorForm.resources
+C:\Users\mdraf\source\repos\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.Properties.Resources.resources
+C:\Users\mdraf\source\repos\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.csproj.GenerateResource.cache
+C:\Users\mdraf\source\repos\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mdraf\source\repos\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.exe
+C:\Users\mdraf\source\repos\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.pdb
